@@ -1,6 +1,6 @@
 <?php
 
-namespace Ninhtqse\ApiConsumer\Facade;
+namespace Duongld\ApiConsumer\Facade;
 
 use Illuminate\Support\Facades\Facade;
 

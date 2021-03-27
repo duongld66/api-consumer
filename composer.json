@@ -1,5 +1,5 @@
 {
-    "name": "ninhtqse/api-consumer",
+    "name": "duongld/api-consumer",
     "description": "A short description of what your package does",
     "require": {
         "laravel/framework": ">=5.2"
@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Ninhtqse\\ApiConsumer\\": "src/"
+            "Duongld\\ApiConsumer\\": "src/"
         }
     },
     "minimum-stability": "dev",

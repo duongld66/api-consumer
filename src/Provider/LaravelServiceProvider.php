@@ -1,9 +1,9 @@
 <?php
 
-namespace Ninhtqse\ApiConsumer\Provider;
+namespace Duongld\ApiConsumer\Provider;
 
 use Illuminate\Support\ServiceProvider as BaseProvider;
-use Ninhtqse\ApiConsumer\Router;
+use Duongld\ApiConsumer\Router;
 
 class LaravelServiceProvider extends BaseProvider {
 

@@ -5,5 +5,5 @@
 ## Installation
 
 ```bash
-composer require ninhtqse/api-consumer 0.2.*
+composer require duongld/api-consumer 0.2.*
 ```

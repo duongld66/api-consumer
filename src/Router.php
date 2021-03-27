@@ -1,6 +1,6 @@
 <?php
 
-namespace Ninhtqse\ApiConsumer;
+namespace Duongld\ApiConsumer;
 
 use Illuminate\Foundation\Application;
 use Illuminate\Http\Request;
